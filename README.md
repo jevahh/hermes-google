@@ -1,3 +1,4 @@
+[google3c3df9f11086c69a.html](https://github.com/user-attachments/files/34903137/google3c3df9f11086c69a.html)
 # hermes-google
 Hermes — Google Calendar Assistant
 This is a small personal bot that reminds you of your calendar events via Discord.
@@ -25,3 +26,4 @@ for details.
 Use
 
 This is a personal project. You can fork it or run it yourself.
+google-site-verification: google3c3df9f11086c69a.html
